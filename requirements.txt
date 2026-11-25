@@ -1,0 +1,54 @@
+
+# ==========================================
+# Toxic Comment and Hate Speech Detection
+# Project Requirements
+# ==========================================
+
+# Data Manipulation
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+scipy
+joblib
+
+# NLP and Text Processing
+nltk
+regex
+
+# Deep Learning
+torch
+
+# Transformer Models
+transformers
+datasets
+tokenizers
+accelerate
+evaluate
+
+# Model Evaluation
+scikit-learn
+
+# Explainable AI
+lime
+shap
+
+# Jupyter Notebook
+jupyter
+ipykernel
+notebook
+
+# Progress Bars and Utilities
+tqdm
+
+# API Development (Optional)
+fastapi
+uvicorn
+
+# Model and Data Serialization
+safetensors

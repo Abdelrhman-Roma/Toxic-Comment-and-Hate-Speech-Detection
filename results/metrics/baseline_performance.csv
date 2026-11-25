@@ -1,0 +1,2 @@
+Model,Training Time (seconds),Prediction Time (seconds)
+TF-IDF + Logistic Regression,6.136337041854858,0.027122974395751953

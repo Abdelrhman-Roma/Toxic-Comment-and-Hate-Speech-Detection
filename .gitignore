@@ -1,0 +1,16 @@
+# Dataset files
+/data/raw/
+/data/processed/
+/data/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+/models/
